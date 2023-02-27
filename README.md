@@ -1,0 +1,3 @@
+This code uses ML models to predict the selling price of cars. I tried to load a dataset of car data into a pandas dataframe, clean the data, and then analyze the data by viewing summary statistics, unique values, and correlations between the features.
+
+I also tried to split the dataset into training and testing sets and train three machine learning models on the training set: linear regression, decision tree regression, and random forest regression. I tried to evaluate the models on the testing set by calculating the mean squared error for each model, and then plot the predicted data against the actual data for each model.
